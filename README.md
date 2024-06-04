@@ -10,7 +10,3 @@ Welcome to my GitHub profile!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RachelRYuan&layout=compact)](https://github.com/RachelRYuan/github-readme-stats)
 
-## Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RachelRYuan&repo=repo-name)](https://github.com/RachelRYuan/repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RachelRYuan&repo=another-repo)](https://github.com/RachelRYuan/another-repo)
