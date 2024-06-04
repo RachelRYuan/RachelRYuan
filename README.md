@@ -2,9 +2,6 @@
 
 Welcome to my GitHub profile!
 
-## GitHub Stats
-
-[![RachelRYuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachelRYuan&show_icons=true&theme=radical)](https://github.com/RachelRYuan/github-readme-stats)
 
 ## Top Languages
 
